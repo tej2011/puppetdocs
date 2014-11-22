@@ -1,0 +1,4 @@
+service{"crond":
+ensure=> running,
+
+}
